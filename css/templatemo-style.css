@@ -136,7 +136,6 @@ a:focus {
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
-  max-width: fit-content;
   position: relative;
 }
 
