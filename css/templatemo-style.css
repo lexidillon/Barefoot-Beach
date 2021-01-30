@@ -136,7 +136,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 100vh;
-  min-height: 375px;
+  min-height: 175px;
   position: relative;
 }
 
@@ -417,10 +417,11 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(https://i.ibb.co/pb1Hdv1/bahamas-metal-edited-1.jpg);
+  background-image: url(https://i.ibb.co/St2Y9Hc/bahamas-metal-edited-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 850px;
+  background-size: 100% auto;
+  min-height: 1050px;
   position: relative;
   padding-bottom: 50px;
   padding-top: 160px;
