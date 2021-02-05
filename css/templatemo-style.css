@@ -134,11 +134,11 @@ a:focus {
 #hero {
   background-image: url(https://i.ibb.co/G5Jqhrn/IMG-4528.jpg);
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: cover;
+  background-position: center;
   height: 100vh;
   min-height: 175px;
   position: relative;
-  width: 100%;
 }
 
 @media (min-height: 830px) {
