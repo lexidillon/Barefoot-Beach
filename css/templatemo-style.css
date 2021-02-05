@@ -421,7 +421,7 @@ figure.effect-honey:hover h2 i {
   background-image: url(https://i.ibb.co/St2Y9Hc/bahamas-metal-edited-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: cover;
   min-height: 1050px;
   position: relative;
   padding-bottom: 50px;
