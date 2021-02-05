@@ -138,6 +138,7 @@ a:focus {
   height: 100vh;
   min-height: 175px;
   position: relative;
+  width: 100%;
 }
 
 @media (min-height: 830px) {
