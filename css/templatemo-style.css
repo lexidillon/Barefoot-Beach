@@ -134,7 +134,7 @@ a:focus {
 #hero {
   background-image: url(https://i.ibb.co/G5Jqhrn/IMG-4528.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% auto;
   background-position: center;
   height: 100vh;
   min-height: 175px;
@@ -421,7 +421,7 @@ figure.effect-honey:hover h2 i {
   background-image: url(https://i.ibb.co/St2Y9Hc/bahamas-metal-edited-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% auto;
   min-height: 1050px;
   position: relative;
   padding-bottom: 50px;
